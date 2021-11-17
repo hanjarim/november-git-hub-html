@@ -1,10 +1,10 @@
 #
-This is my first assignment project as I take onlearning html.
+This is my first assignment project as I take on learning html.
 We are using markdown langauage to create the README file.
 This document is authored by MOSES HANJARI
 <br>
 A brief description of the project. 
-This project aims to teach the student the steps takento create a webpage that can easilty be updated and ammended. It gives the student important skills necessary in the process of creating and hosting systems on the cloud environment.<br>
+This project aims to teach the student the steps taken to create a webpage that can easily be updated and ammended. It gives the student important skills necessary in the process of creating and hosting systems on the cloud environment.<br>
 <br>
 The project is setup to allow step by step progression in the process of development of a webpage and finally deploying the complete page to the github pages. This provides an excting means of learning and growing. <br>
 <br><br>
