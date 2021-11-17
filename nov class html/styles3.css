@@ -13,6 +13,13 @@ ul {
     float: right; 
     list-style-type: none;
 } 
+
+ol {
+    text-decoration: none;
+    color: #fff;
+    padding: 6px 20px;
+}
+
 ul li{
     display: inline-block;
 }
